@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "react": "^18.x",
+    "react-dom": "^18.x",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.x",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
